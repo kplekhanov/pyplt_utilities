@@ -12,5 +12,5 @@ value33 <br/>
 } <br/>
 
 # inputGroup
-**creates the files in the same output where each entry is an attribute of the class** <br/>
+**creates the same output file where each entry is an attribute of the corresponding InputGroup object** <br/>
 
